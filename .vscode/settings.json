@@ -1,3 +1,4 @@
 {
-    "cmake.sourceDirectory": "C:/Users/oshad/OneDrive/Documents/Programming/Flutter/chat app/flutter_application_1/windows/runner"
+  "cmake.sourceDirectory": "D:/5th Sem/Mobile/chat-app/linux",
+  "java.compile.nullAnalysis.mode": "disabled"
 }
